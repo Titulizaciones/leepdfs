@@ -29,7 +29,7 @@ define ("PROCESABLE", "Procesable");
 $cabecera_fondos = array ();
 
 //Estructura del archivo de salida////////////////////////////////////////////////////////////
-//Indica de donde salen, si de la tabla de fondos o de la escritura
+//Indica de donde salen, si de la tabla de fondos (t) o de la escritura (e)
 $campos_salida = array (
   NOMBRE_FONDO => "t",
   GESTORA => "t",
